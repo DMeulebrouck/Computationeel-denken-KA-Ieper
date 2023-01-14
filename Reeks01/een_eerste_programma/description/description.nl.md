@@ -1,9 +1,9 @@
 # Een eerste programma
 ```
-#commentaar <br>
-import math<br>
-straal = int(input("Geef de straal van de cirkel: ")<br>
-omtrek = 2 * math.pi * straal<br>
+#commentaar 
+import math
+straal = int(input("Geef de straal van de cirkel: ")
+omtrek = 2 * math.pi * straal
 print (omtrek)
 ```
 ## Commentaar - \#
@@ -20,11 +20,15 @@ print (omtrek)
 * input("...") : tekst tussen aanhalingstekens staat wordt afgedrukt op het scherm
 * input("...") : de invoer van de gebruiker is altijd een tekst = string
 * int(...) : tekst wordt omgezet in een geheel getal (integer)
+## Uitvoer - print
+* inhoud van een variabele wordt op het scherm getoond
 ## Datatypes
 String 
 * Sliert van tekens, omsloten door dubbele aanhalingstekens
+
 Integers
 * Gehele getallen (positief of negatief)
+
 Floats
 * Rationale getallen
 * Resultaat van een deling is rationaal
