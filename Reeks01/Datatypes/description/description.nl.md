@@ -1,5 +1,5 @@
 ## Datatypes
-![Datatypes](media/datatypes.jpg "Datatypes")
+
 String 
 * Sliert van tekens, omsloten door dubbele aanhalingstekens
 
